@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](Coming soon!)
+(Portfolio Coming soon!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-escobar-p)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelEscobar0345)
 
@@ -20,7 +20,7 @@
 
 I'm a FullStack Developer with 2 years of professional experience, specialized in Web UI. I build clean, modern, and functional interfaces focused on user experience and visual detail.
 
-Currently at **Tres Trigos** — clean architecture, automation, reusable components, and performance-first interfaces.
+Currently at **Tres Trigos** — clean architecture, automation, reusable components, and performance-first interfaces.<br>
 Previously at **Globant** — contributed to Builder.ai using React Native, participated in an internal Web UI bootcamp, promoted from intern to full-time developer.
 
 I believe every interaction matters and that motion, when used thoughtfully, can make an interface feel genuinely alive.

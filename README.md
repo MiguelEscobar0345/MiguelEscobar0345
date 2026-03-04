@@ -71,6 +71,7 @@ I believe every interaction matters and that motion, when used thoughtfully, can
 
 ![Miguel's GitHub Stats](https://github-readme-stats-nine-ruby-4s4yxf5tsh.vercel.app/api?username=MiguelEscobar0345&show_icons=true&theme=github_dark&hide_border=true&bg_color=09090b&title_color=4ade80&icon_color=4ade80&text_color=a1a1aa&count_private=true)
 
+
 ![Top Languages](https://github-readme-stats-nine-ruby-4s4yxf5tsh.vercel.app/api/top-langs/?username=MiguelEscobar0345&layout=compact&theme=github_dark&hide_border=true&bg_color=09090b&title_color=4ade80&text_color=a1a1aa&langs_count=6)
 
 </div>
